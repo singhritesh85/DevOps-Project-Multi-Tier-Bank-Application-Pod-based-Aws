@@ -27,7 +27,7 @@ Entry for Route53 is as shown in the screenshot attached below.
 ![image](https://github.com/user-attachments/assets/b239f6e2-6c1c-4a83-a058-980ec941ed03)
 
 ```
-OpenJDK Docker Image is depricated so in this project eclipse-temurin docker image has been used. 
+OpenJDK Docker Image is depricated so in this project eclipse-temurin docker image has been used as a base image in the Dockerfile. 
 ```
 
 <br><br/>
